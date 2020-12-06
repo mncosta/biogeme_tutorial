@@ -1,3 +1,4 @@
+
 # 6. Discrete Choice Models
 
 This chapter explores how to estimate and analyze Discrete Choice Models, their uses and applications.
@@ -63,3 +64,4 @@ This chapter explores how to estimate and analyze Discrete Choice Models, their 
 ## Python and Biogeme instalation
 
   - [How to install Python and Pandas Biogeme](0-Install/python_and_biogeme_windows.md)
+
