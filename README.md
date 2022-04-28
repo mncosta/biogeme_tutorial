@@ -1,3 +1,5 @@
+NOTE: This repo has been moved to be a part of [Transport Demand Modelling](https://github.com/U-Shift/Transport-Demand-Modelling).
+
 
 # 6. Discrete Choice Models
 
